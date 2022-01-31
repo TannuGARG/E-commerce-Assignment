@@ -1,0 +1,58 @@
+{
+    "user":
+        [
+            {
+            "id":1,
+            "company":"Roadster",
+            "rating":"4.3",
+            "describe": "Men Black & Grey Checked Casual Sustainable Shirt",
+            "PostImage1": "./images/img1.jpg",
+            "PostImage2": "./images/img2.jpg",
+            "PostImage3": "./images/img3.jpg",
+            "PostImage4": "./images/img4.jpg",
+            "Cost": "Rs. 1100",
+            "description":"Black and grey checked casual shirt, has a spread collar, a full button placket, long sleeves with roll-up tabs, a patch pocket, a curved hem",
+           "Material":"Cotton",
+           "care":"Machine-wash",
+           "Size":"The model (height 6inch and shoulders 18cm) is wearing a size 40"
+
+
+            },
+            {
+                "id":2,
+                "company":"Dennis Lingo",
+                "rating":"4.1",
+                "describe": "Men Brown & Black Slim Fit Checked Casual Shirt",
+                "PostImage1": "./images/img1.jpg",
+                "PostImage2": "./images/img2.jpg",
+                "PostImage3": "./images/img3.jpg",
+                "PostImage4": "./images/img4.jpg",
+                "Cost": "Rs. 1849",
+                "description":"Brown and black checked casual shirt ,has a spread collar,long sleeves,curved hem,one patch pocket",
+               "Material":" 100% Cotton",
+               "care":"Machine-wash",
+               "Size":"The model (height 6inch ) is wearing a size 40"
+    
+    
+                },
+                {
+                    "id":3,
+                    "company":"HARE & NOW",
+                    "rating":"4.4",
+                    "describe": "Men Maroon Pure Cotton Casual Shirt",
+                    "PostImage1": "./images/img1.jpg",
+                    "PostImage2": "./images/img2.jpg",
+                    "PostImage3": "./images/img3.jpg",
+                    "PostImage4": "./images/img4.jpg",
+                    "Cost": "Rs. 854",
+                    "description":"Maroon solid casual shirt,has a mandarian collar,long sleeves,curved hem",
+                   "Material":"100% Cotton",
+                   "care":"Machine-wash",
+                   "Size":"The model (height 6inch and shoulders 18cm) is wearing a size 40"
+        
+        
+                    }
+            
+
+            ]
+}

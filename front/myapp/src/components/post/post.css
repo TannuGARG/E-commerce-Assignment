@@ -1,0 +1,71 @@
+.site-container{
+    margin-left: 120px;
+    margin-top: 50px;
+
+}
+.post{
+    display: flex;
+}
+.box2{
+   
+    
+    display: flex;
+}
+.box1{
+   
+    margin-left: 50px;
+    width: 550px;
+    
+}
+.box3{
+    
+    display: flex;
+
+}
+.box1 img{
+    width: 20px;
+    height: 20px;
+}
+.box3 p{
+
+    height: 20px;
+    width: 90px;
+    border: 1px solid rgb(170, 165, 165);
+}
+.btn{
+    width: 120px;
+    height: 30px;
+    background-color: rgb(128, 0, 85);
+    color: white;
+}
+.btn2{
+    width: 120px;
+    height: 30px;
+    background-color: rgb(0, 128, 21);
+    color: white;
+}
+.size{
+    display: flex;
+}
+.round{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    border: 1.5px solid blue;
+    margin-right: 2px;
+
+
+}
+.quan{
+    width: 50px;
+    margin-left: 10px;
+    border: 1px solid blue;
+    border-radius: 5px;
+
+}
+.post{
+    height: auto;
+    width: auto;
+    border: 1px solid grey;
+    margin-top: 20px;
+}

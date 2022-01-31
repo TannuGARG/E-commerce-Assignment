@@ -1,0 +1,25 @@
+.cart1{
+    width: 400px;
+    height: 190px;
+    margin-bottom: 30px;
+    border: 1px solid grey;
+    font-size: small;
+    margin-left: 370px;
+    margin-top: 20px;
+}
+p{
+    margin-top: 2px;
+    margin-left: 5px;
+}
+.light{
+     color: grey;
+}
+h3{
+    margin-left: 5px;
+}
+p span{
+    font-weight:bolder ;
+}
+.cancel{
+    float: right;
+}
